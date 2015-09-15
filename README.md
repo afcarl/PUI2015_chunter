@@ -7,7 +7,7 @@ To set up the environment variable and alias I edited my .bashrc file to include
 export PUI2015=/home/clayton/Documents/CUSP/courses_2015/PUI2015
 alias pui2015="cd $PUI2015"
 As shown in the image here:
-![alt text][bashrc_snapshot.png]
+![alt text](./bashrc_snapshot.png)
 
 Which results in this nice shortcut:
-![alt text][alias_commands.png]
+![alt text](./alias_commands.png)
