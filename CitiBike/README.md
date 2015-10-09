@@ -6,8 +6,8 @@ Script "Complete_02.ipynb" can be run through as is, or optionally the month can
 Are CitiBike's easing commuter journey's across the East River?
 
 ### Hypothesis
-+ H0: The share of CitiBike subscribers crossing the East River during peak commuting hours (as defined by the MTA) is not significantly different at 95% confidence level than the share of CitiBike subscribers not crossing the river during peak hours.
-+ H1: Not H0.
++ H0: The probability of a citibike subscriber crossing the East River in a given month is **independent** of whether the trip is taken during rush hour
++ H1: The probability of a citibike subscriber crossing the East River in a given month is **not independent** of whether the trip is taken during rush hour
 
 ### Project work balance
 #### hypothesis generation
