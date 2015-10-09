@@ -20,4 +20,4 @@ Max had the original idea of looking at bridges as he is an avid CitiBike user
 3. Arno completes a chi-square test of our hypothesis
 
 #### Results
-For the months tested (January, April, and August) we reject the null hypothesis that the share of bike journeys crossing the river during peak commuting hours is not significantly different than the share crossing the bridge during non-peak hours
+For the months tested (January, April, and August) we reject the null hypothesis
