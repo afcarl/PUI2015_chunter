@@ -11,3 +11,9 @@ NOTE: uses geopandas for distance calculation
 
 Example image:
 ![alt text](./nhood_commuting.png)
+
+### HW8 - phase 2: plot reviews
+
+1. [edl268 plot review](./edl268_plot_review.md)
+2. [ds2455 plot review](./ds2455_plot_review.md)
+3. [jh5138 plot review](./jh5138_plot_review.md)
