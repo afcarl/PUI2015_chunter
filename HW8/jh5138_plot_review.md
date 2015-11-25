@@ -1,4 +1,4 @@
-### jhuang - plot review
+### jh5138 - plot review
 
 ![Alt text](https://github.com/Jihenghuang/PUI2015_Jhuang/blob/master/HW8_plot/99_1_Lane4_6Saturday_SF.jpg "HW8 Plot")
 

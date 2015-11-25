@@ -1,11 +1,13 @@
-### otrune - plot review
+### edl268 - plot review
 
 ![alt text](./ortrune_literacy.png)
 
 
 ##### Clarity
 Very clear and easy to read over all. 
+
 Two minor points:
+
 1. y-axis: lowest point at 60% so at very brief glance literacy rate looked to be close to 0 for the lower three regions
 2. At first I assumed the entire world was included so got caught slightly off-guard when I didn't see Europe / North America
 
