@@ -1,0 +1,56 @@
+very thoughtful reviews of the plots 10/10
+
+
+
+NOTES ON YOUR PLOT
+=================
+
+
+the 3d obstructs the structure, but the structure is symmetric so this is justified
+
+the color is redundant with the z axis, but it helos read the y value in the 3D structure
+
+the z axis label is ambiguous: spell the function out
+
+the axis labels are too small to be readable
+
+
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+==================================
+
+dstarobin
+=========
+
+very nice plot that summarize a lot of details at once
+
+labels in the legend top left too small to read
+
+nice unobtrusive labels showing single events
+
+drop rides from the labels on the right for compactness
+
+
+consider a more compact notation for the y axis: e.g. use units of 1000 rides
+
+Jihenghuang
+==========
+
+unmotivated empty space to the right
+
+the choice of red single color is "aggressive" to the sight, which may or may not be the desired effect given context. but it is a color that does not comply well with color blindness, so if that is the desired effect it would be lost in 10% of the male population
+
+axis labels a bit small
+
+Ortrune
+=======
+
+thick lines are not neessary and cause ambiguity when thy overlab
+
+the datapoints are sparse: the plot could be compressed on the x axisand this would aid comparison
+
+tick labels are ont he small side, but not terribly small 
+
+color blindeness compliant
+~
